@@ -1,5 +1,6 @@
 <?php
-namespace LocateMe\Utilities;
+namespace Acme\Test;
+
  
 class CalculatorTests extends PHPUnit_Framework_TestCase
 {

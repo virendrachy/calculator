@@ -11,9 +11,9 @@
         "phpunit/phpunit": "5.5.*"
     },
       "autoload": {
-        "psr-0": {
-            "phpUnitTutorial": ""
+        "psr-4": {
+           "Acme\\":"phpUnitTutorial/"
         }
-    }
+      } 
 }
 
